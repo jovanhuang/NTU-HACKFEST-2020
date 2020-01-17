@@ -1,6 +1,6 @@
-# NTU-HACKFEST-2020
+# NTU-SCSE-HACKFEST-2020
 
-## SCSE HackFest 20  – HackFest is a 4-day event that pushes NTU’s digital initiative through tackling real-life issues through programming.
+SCSE HackFest 20  – HackFest is a 4-day event that pushes NTU’s digital initiative through tackling real-life issues through programming.
 
 ## Problem Statement
 Students sometimes have difficulty understanding certain subjects at school. Design an app that helps students understand various subjects better, e.g. personal tutor-matching, lecture note-taking and organisation, recommendation of study resource and material lecture review and exams related material.
