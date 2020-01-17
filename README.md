@@ -9,11 +9,10 @@ Students sometimes have difficulty understanding certain subjects at school. Des
 We created a webpage app called "Cue", a peer sharing flashcards platforms for university level students with the aim of helping students understand various subjects better.
 
 ## How to run
-1)Extract the RAR file using winzip.  
-2)Go to "Hackathon" Folder.  
-3)Go to "build" folder.  
-4)Go to "exe.win-amd64-3.7" folder.  
-5)Run "app.exe".  
+1)Go to "Hackathon" Folder.  
+2)Go to "build" folder.  
+3)Go to "exe.win-amd64-3.7" folder.  
+4)Run "app.exe".  
 
 Our team consists of 4 members:  
 Bryan Lim Cheng Yee (Year 1 Computer Science student)  
