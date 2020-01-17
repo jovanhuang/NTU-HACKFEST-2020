@@ -14,7 +14,7 @@ We created a webpage app called "Cue", a peer sharing flashcards platforms for u
 3)Go to "exe.win-amd64-3.7" folder.  
 4)Run "app.exe".  
 
-## Members:  
+## Project Members:  
 **Bryan Lim Cheng Yee** (Year 1 Computer Science student)  
 **Manika Hennedige** (Year 1 Business and Computer Science student)  
 **Jovan Huang** (Year 1 Computer Science student)  
