@@ -1,3 +1,6 @@
+# Video Demo
+https://drive.google.com/file/d/1_q1oL3TifZXpktXbUeewP40GR9u3HFGv/view?usp=sharing
+
 # NTU-SCSE-HACKFEST-2020
 
 SCSE HackFest 20  – HackFest is a 4-day event that pushes NTU’s digital initiative through tackling real-life issues through programming.
